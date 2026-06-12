@@ -2,7 +2,7 @@
 This webmap has been prepared as a companion to the report ‘Strengthening Physical Planning, Bit by Bit’, dated June 2026 (the Report). It presents the datasets used in the report’s analysis. The information is provided as a general guide only. While care has been taken to ensure accuracy, users rely on the content at their own risk.
 
 # How to use this webmap  
-You can open the webmap in your browser by accessing the link: [LINK].
+You can open the webmap in your browser by accessing the link (https://duncanpng.github.io/strengthening_physical_planning_in_lae_01/#13/-6.6765/146.9839)
 
 Once on the web page has loaded, you can toggle information on or off by ticking the boxes in the layer list on the left side of the page.
 
